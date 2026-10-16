@@ -1,0 +1,15 @@
+flask
+gunicorn
+requests
+httpx
+google
+protobuf
+pycryptodome
+PyJWT
+urllib3
+protobuf-decoder
+pytz
+aiohttp
+cfonts
+flask-socketio
+eventlet
